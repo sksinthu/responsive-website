@@ -1,0 +1,6 @@
+.main img{
+    /* width: 450px;
+    height: 350px;  */
+    margin-left: 850px;
+    transform:skew(-30deg,-34deg);
+}

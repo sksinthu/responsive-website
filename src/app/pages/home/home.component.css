@@ -1,0 +1,40 @@
+.main img {
+    height: 600px;
+    transform: translateX(99%);
+}
+
+.main {
+    background-color: #e9ecef8c;
+    overflow: hidden;
+    position: relative;
+
+
+}
+
+.text {
+    position: absolute;
+    transform: translate(5%, 48%);
+    text-transform: uppercase;
+    font-size: 50px;
+
+}
+
+.food {
+    color: red;
+
+}
+
+.text-align {
+    font-weight: lighter;
+    margin-top: 19px;
+    text-transform: lowercase;
+}
+
+button {
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 7px;
+}
+.food{
+    margin-left: 7px;
+}
